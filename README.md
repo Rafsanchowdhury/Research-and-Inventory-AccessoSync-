@@ -1,3 +1,3 @@
 AccessoSync
-Researched and
+Research and
 Sales Inventory by Rafsan Jani Chowdhury 
