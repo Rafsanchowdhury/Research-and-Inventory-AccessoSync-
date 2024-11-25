@@ -1,2 +1,3 @@
-# life-story
-This repo contain my life story.
+AccessoSync
+Researched by Rafsan Jani Chowdhury 
+Sales Inventory by Rafsan Jani Chowdhury 
